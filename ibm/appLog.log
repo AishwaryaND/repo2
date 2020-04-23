@@ -1,0 +1,182 @@
+Project created on Thu Apr 23 2020, 13:33:34 GMT+0530 (India Standard Time)
+
+ Info | datasourceDB | init | Thu Apr 23 2020, 13:33:34 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Thu Apr 23 2020, 13:33:34 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Thu Apr 23 2020, 13:33:34 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Thu Apr 23 2020, 13:33:34 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Thu Apr 23 2020, 13:33:34 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Thu Apr 23 2020, 13:33:34 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | createIonicProject | Thu Apr 23 2020, 13:33:34 GMT+0530 (India Standard Time) | Initialized all the DB's
+Success | projectHandler | createIonicProject | Thu Apr 23 2020, 13:33:34 GMT+0530 (India Standard Time) | Project created on file system.
+Success | projectHandler | createIonicProject | Thu Apr 23 2020, 13:33:34 GMT+0530 (India Standard Time) | Added app title to index.html
+ Info | projectHandler | createIonicProject | Thu Apr 23 2020, 13:33:34 GMT+0530 (India Standard Time) | Added bundle id to config.xml
+ Info | projectHandler | createIonicProject | Thu Apr 23 2020, 13:33:34 GMT+0530 (India Standard Time) | Copying over required plugins including mfp plugin
+ Info | projectHandler | createIonicProject | Thu Apr 23 2020, 13:33:34 GMT+0530 (India Standard Time) | Unzip start: 13:33:34
+Success | projectHandler | createIonicProject | Thu Apr 23 2020, 13:33:35 GMT+0530 (India Standard Time) | Copied over required app-build.json file
+Success | projectHandler | createIonicProject | Thu Apr 23 2020, 13:33:37 GMT+0530 (India Standard Time) | Copied over required node modules
+Success | projectHandler | createIonicProject | Thu Apr 23 2020, 13:33:37 GMT+0530 (India Standard Time) | Copied over required plugins
+Success | projectHandler | createIonicProject | Thu Apr 23 2020, 13:33:52 GMT+0530 (India Standard Time) | Copied over required cordova-plugin-mgp
+Success | projectHandler | createIonicProject | Thu Apr 23 2020, 13:33:52 GMT+0530 (India Standard Time) | Unzip finish: 13:33:52
+ Info | projectHandler | createIonicProject | Thu Apr 23 2020, 13:33:52 GMT+0530 (India Standard Time) | Installing dependencies and adding platform
+ Info | projectHandler | createIonicProject | Thu Apr 23 2020, 13:33:52 GMT+0530 (India Standard Time) | Running npm install
+ Error | projectHandler | createIonicProject | Thu Apr 23 2020, 13:33:54 GMT+0530 (India Standard Time) | npm WARN deprecated @angular/http@5.2.11: Package no longer supported. Use @angular/common instead, see https://angular.io/guide/deprecations#angularhttp
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:154292:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:154249:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:154289:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19294:67)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Thu Apr 23 2020, 13:33:55 GMT+0530 (India Standard Time) | npm WARN deprecated sw-toolbox@3.6.0: Please migrate to Workbox: https://developers.google.com/web/tools/workbox/guides/migrations/migrate-from-sw
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:154292:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:154249:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:154289:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19294:67)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Thu Apr 23 2020, 13:33:55 GMT+0530 (India Standard Time) | npm WARN deprecated request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:154292:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:154249:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:154289:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19294:67)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Thu Apr 23 2020, 13:33:56 GMT+0530 (India Standard Time) | npm WARN deprecated node-uuid@1.4.7: Use uuid module instead
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:154292:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:154249:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:154289:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19294:67)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Thu Apr 23 2020, 13:33:57 GMT+0530 (India Standard Time) | npm WARN deprecated rollup-plugin-commonjs@8.2.6: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-commonjs.
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:154292:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:154249:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:154289:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19294:67)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Thu Apr 23 2020, 13:33:57 GMT+0530 (India Standard Time) | npm WARN deprecated rollup-plugin-node-resolve@3.0.0: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-node-resolve.
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:154292:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:154249:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:154289:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19294:67)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Thu Apr 23 2020, 13:33:58 GMT+0530 (India Standard Time) | npm WARN deprecated lodash-node@2.4.1: This package is discontinued. Use lodash@^4.0.0.
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:154292:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:154249:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:154289:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19294:67)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Thu Apr 23 2020, 13:33:59 GMT+0530 (India Standard Time) | npm WARN deprecated browserslist@2.11.3: Browserslist 2 could fail on reading Browserslist >3.0 config used in other tools.
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:154292:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:154249:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:154289:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19294:67)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Thu Apr 23 2020, 13:34:03 GMT+0530 (India Standard Time) | npm WARN deprecated resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:154292:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:154249:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:154289:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19294:67)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createIonicProject | Thu Apr 23 2020, 13:34:03 GMT+0530 (India Standard Time) | npm WARN deprecated urix@0.1.0: Please see https://github.com/lydell/urix#deprecated
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:154292:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:154249:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:154289:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19294:67)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | projectHandler | createIonicProject | Thu Apr 23 2020, 13:34:20 GMT+0530 (India Standard Time) | 
+> fsevents@1.2.12 install /Users/aishwaryadodmani/Desktop/app4/ionic/node_modules/fsevents
+> node-gyp rebuild
+
+
+ Info | projectHandler | createIonicProject | Thu Apr 23 2020, 13:34:22 GMT+0530 (India Standard Time) |   SOLINK_MODULE(target) Release/.node
+
+ Info | projectHandler | createIonicProject | Thu Apr 23 2020, 13:34:22 GMT+0530 (India Standard Time) |   CXX(target) Release/obj.target/fse/fsevents.o
+
+ Info | projectHandler | createIonicProject | Thu Apr 23 2020, 13:34:24 GMT+0530 (India Standard Time) |   SOLINK_MODULE(target) Release/fse.node
+
+ Info | projectHandler | createIonicProject | Thu Apr 23 2020, 13:34:24 GMT+0530 (India Standard Time) | 
+> node-sass@4.13.1 install /Users/aishwaryadodmani/Desktop/app4/ionic/node_modules/node-sass
+> node scripts/install.js
+
+
+ Info | projectHandler | createIonicProject | Thu Apr 23 2020, 13:34:25 GMT+0530 (India Standard Time) | Cached binary found at /Users/aishwaryadodmani/.npm/node-sass/4.13.1/darwin-x64-64_binding.node
+
+ Info | projectHandler | createIonicProject | Thu Apr 23 2020, 13:34:25 GMT+0530 (India Standard Time) | 
+> uglifyjs-webpack-plugin@0.4.6 postinstall /Users/aishwaryadodmani/Desktop/app4/ionic/node_modules/uglifyjs-webpack-plugin
+> node lib/post_install.js
+
+
+ Info | projectHandler | createIonicProject | Thu Apr 23 2020, 13:34:25 GMT+0530 (India Standard Time) | 
+> node-sass@4.13.1 postinstall /Users/aishwaryadodmani/Desktop/app4/ionic/node_modules/node-sass
+> node scripts/build.js
+
+
+ Info | projectHandler | createIonicProject | Thu Apr 23 2020, 13:34:25 GMT+0530 (India Standard Time) | Binary found at /Users/aishwaryadodmani/Desktop/app4/ionic/node_modules/node-sass/vendor/darwin-x64-64/binding.node
+Testing binary
+Binary is fine
+
+ Error | projectHandler | createIonicProject | Thu Apr 23 2020, 13:34:26 GMT+0530 (India Standard Time) | npm notice created a lockfile as package-lock.json. You should commit this file.
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:154292:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:154249:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:154289:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19294:67)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | projectHandler | createIonicProject | Thu Apr 23 2020, 13:34:26 GMT+0530 (India Standard Time) | added 1055 packages from 715 contributors and audited 7900 packages in 32.412s
+found 64 vulnerabilities (17 low, 17 moderate, 30 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+ Info | projectHandler | createIonicProject | Thu Apr 23 2020, 13:34:26 GMT+0530 (India Standard Time) | ✔ Creating ./www directory for you - done!
+
+ Info | projectHandler | createIonicProject | Thu Apr 23 2020, 13:34:26 GMT+0530 (India Standard Time) | > cordova plugin add /Users/aishwaryadodmani/Desktop/app4/ionic/mfp-plugin/cordova-plugin-mfp --save
+
