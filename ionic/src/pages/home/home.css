@@ -1,7 +1,7 @@
-#page-home {
+#page-home 
   --theme-primary-color: #494a68;
   background: var(--theme-primary-color);
-  background-size: cover;
+  backgrou: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
